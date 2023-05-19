@@ -9,7 +9,7 @@ Created on Sun Apr 30 07:33:17 2023
 import openai
 
 # Define OpenAI API key
-openai.api_key = "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"
+openai.api_key = "sk-key"
 
 # Set up the model and prompt
 model_engine = "text-davinci-003"
